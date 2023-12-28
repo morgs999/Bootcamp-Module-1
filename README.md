@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Code Refactoring Sample
 
 ## Description
 Refactored an already existing html and css for easier deployment by Horiseon.
@@ -11,8 +11,10 @@ Refactored an already existing html and css for easier deployment by Horiseon.
  - Reorganized styles to follow flow of webpage
 
 ## Installation
-Can be cloned for Github Repo and deployed:
-https://github.com/morgs999/Bootcamp-Module-1
+Can be [cloned](https://github.com/morgs999/Code-Refactoring-Sample.git) or [deployed](https://morgs999.github.io/Code-Refactoring-Sample/).
 
-## Credits
-Credit to Horiseon for original HTML and CSS
+## Usage
+![Sample](../Bootcamp-Module-1/assets/images/Sample.gif)
+
+### Credits
+Credit to University of Toronto Coding Boot Camp for original HTML and CSS.
